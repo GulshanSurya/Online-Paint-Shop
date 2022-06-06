@@ -1,0 +1,19 @@
+body{
+    background: url("https://media.istockphoto.com/photos/modern-living-room-design-with-empty-blue-mock-up-wall-and-blue-sofa-picture-id1303656970?b=1&k=20&m=1303656970&s=170667a&w=0&h=Xbtm0W9TLTC78ad8YtQ1Rf3xOvmkwkKHCPlprNjvW8U=");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+div{
+    width: 600px;
+    height: 500px;
+    background-color: rgb(248, 240, 240);
+    border-style: double;
+    border-width:5px;
+    border-radius: 20px;
+    border-color: rgb(76, 88, 250);
+}
+a{
+    color: black;
+    text-decoration: none;
+}

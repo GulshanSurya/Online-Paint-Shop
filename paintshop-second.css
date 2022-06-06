@@ -1,0 +1,25 @@
+body{
+    background: url("https://media.istockphoto.com/photos/closeup-of-two-women-choosing-samples-of-wall-paint-interior-designer-picture-id1291484089?b=1&k=20&m=1291484089&s=170667a&w=0&h=gtWY29g4W1JdouTtyG-jnc5JRTUQ5OGTiwvzpFe9sN8=");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+div{
+    width: 600px;
+    height: 500px;
+    background-color: rgb(248, 240, 240);
+    border-style: double;
+    border-width:5px;
+    border-radius: 20px;
+    border-color: rgb(241, 146, 146);
+    position: relative;
+    justify-self: center;
+    overflow: hidden;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+}
